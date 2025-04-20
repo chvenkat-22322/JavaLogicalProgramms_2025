@@ -1,5 +1,6 @@
 public class JavaDemo {
 
+//.please make the changes in this there few erros
 public static void main(String[] args){
 
 system.ot.println();
